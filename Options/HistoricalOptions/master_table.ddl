@@ -1,3 +1,5 @@
+CREATE DATABASE options;
+
 CREATE TABLE options.historical_options (
     underlying			varchar(30),
     underlying_last			varchar(30),
